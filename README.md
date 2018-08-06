@@ -1,4 +1,4 @@
-# README
+# Course Ruby on Rails - Overtime
 
 Course Professional Rails Code Along (https://stackskills.com/p/professional-rails-code-along) \
 Original course code: https://github.com/jordanhudgens/overtime-app
