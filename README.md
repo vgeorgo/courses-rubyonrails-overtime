@@ -1,7 +1,6 @@
 # Course Professional Rails Code Along - Overtime
 
 Link: https://stackskills.com/p/professional-rails-code-along \
-Original course code: https://github.com/jordanhudgens/overtime-app \
 
 Created following the course instructions to learn how to create a professional Ruby on Rails web application.
 In the future, there will be new commits with new features, for practicing purpose.
